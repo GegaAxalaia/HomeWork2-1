@@ -9,7 +9,6 @@ const Number = (number) => {
   }
 };
 
-// Example usage:
 Number(5);
 Number(-2);
 // 2. დაწერეთ ფუნქცია რომელიც დააბრუნებს ყველა ციფრის ჯამს
